@@ -102,7 +102,7 @@ To ensure secure handling of sensitive data, you need to set up the following se
 
 1. Go to your repository’s **Settings**.
 2. Click on **Secrets and variables > Actions**.
-3. Add the following secrets:
+3. Add the following to repository secrets:
    - `PRIVATE_KEY_NILE`: The private key of your wallet for testing on Nile.
    - `FULL_NODE_NILE`: The URL of the Nile testnet node (usually `https://nile.trongrid.io`).
 
